@@ -1,8 +1,8 @@
 # Dreamliner
 
-### The news sub-theme for [The Register-Guard](http://registerguard.com).
+### News sub-theme for [The Register-Guard](http://registerguard.com).
 
-![Dreamliner cockpit](cockpit.jpg)
+![Dreamliner cockpit](dreamliner.jpg)
 
 ---
 
